@@ -48,7 +48,7 @@ export default class App extends React.Component<{ state: AppState }> {
                         <Box width={15} />
                         <Link href="/" color="inherit">
                             <TitleTypography variant="h6" color="inherit">
-                                    Cognitive Search Demo
+                                    Hospital Price Transparency
                             </TitleTypography>
                         </Link>
                         <Box width={15} />
