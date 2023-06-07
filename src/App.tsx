@@ -37,7 +37,7 @@ export default class App extends React.Component<{ state: AppState }> {
                         <img src={logo} width="30px" alt=""/>
                         <Box width={15} />
                         <Typography variant="h4" color="inherit">
-                            Cognitive Search Demo
+                            Hospital Price Transparency
                         </Typography>
                         
                     </>) : (<>
